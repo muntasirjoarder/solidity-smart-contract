@@ -1,0 +1,28 @@
+{
+  "name": "dir",
+  "version": "1.0.0",
+  "description": "Smart contract in solidity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muntasirjoarder/solidity-smart-contract.git"
+  },
+  "keywords": [
+    "solidty",
+    "smart",
+    "contract",
+    "ethereum"
+  ],
+  "author": "Muntasir Joarder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muntasirjoarder/solidity-smart-contract/issues"
+  },
+  "homepage": "https://github.com/muntasirjoarder/solidity-smart-contract#readme",
+  "dependencies": {
+    "solc": "^0.4.24"
+  }
+}
